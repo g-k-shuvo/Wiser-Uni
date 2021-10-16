@@ -1,0 +1,20 @@
+#contact h2 {
+  margin-bottom: 40px;
+}
+
+.contact-extra {
+  padding: 90px 0 0 40px;
+  font-size: 24px;
+  color: #3a3b3b;
+}
+
+.contact-address,
+.contact-phone,
+.contact-email {
+  display: flex;
+  margin: 36px 0;
+}
+
+.contact-extra p {
+  margin-left: 20px;
+}

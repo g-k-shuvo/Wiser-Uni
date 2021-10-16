@@ -1,0 +1,10 @@
+.about-banner-text h1 {
+  font-family: "Abril Fatface", cursive;
+  margin-bottom: 60px;
+}
+
+.about-banner-text p {
+  font-size: 16px;
+  line-height: 1.8;
+  margin: 10px 0;
+}

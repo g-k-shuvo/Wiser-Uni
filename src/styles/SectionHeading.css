@@ -1,0 +1,12 @@
+.section-heading {
+  padding: 30px 0;
+  margin-bottom: 40px;
+}
+
+.section-heading h3 {
+  font-size: 55px;
+  font-weight: 400;
+  font-family: "Abril Fatface", cursive;
+  color: #234262;
+  text-align: center;
+}

@@ -1,0 +1,38 @@
+.header-top {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  background: #232637;
+  color: #fff;
+  padding: 16px 0;
+}
+
+.header-top span {
+  margin-right: 6px;
+}
+
+.header-top-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-top-container ul {
+  display: flex;
+}
+
+.header-top-container ul li.divider {
+  margin: 0 16px;
+}
+
+.header-top-container ul li a {
+  color: #fff;
+}
+
+@media only screen and (max-width: 768px) {
+  .header-top-container {
+    flex-direction: column;
+  }
+
+  .header-top-container ul {
+    margin: 10px 0;
+  }
+}

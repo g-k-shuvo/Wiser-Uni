@@ -1,0 +1,48 @@
+#services {
+  padding: 60px 0;
+}
+
+.service {
+  display: flex;
+  border-radius: 10px;
+  padding: 28px 30px;
+  margin: 20px 0;
+  align-items: center;
+  color: #fff;
+}
+
+.service-1 {
+  background: #ebb830;
+}
+
+.service-1 .service-icon svg {
+  color: #ebb830;
+}
+
+.service-2 {
+  background: #317bd6;
+}
+
+.service-2 .service-icon svg {
+  color: #317bd6;
+}
+
+.service-3 {
+  background: #1fc2d9;
+}
+
+.service-3 .service-icon svg {
+  color: #1fc2d9;
+}
+
+.service .service-icon {
+  width: 70px;
+  height: 70px;
+  text-align: center;
+  line-height: 70px;
+  background: #fff;
+  border-radius: 50%;
+  font-size: 30px;
+  display: inline-block;
+  margin-right: 20px;
+}

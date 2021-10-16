@@ -1,0 +1,64 @@
+#banner {
+  background: url("../images/banner-bg.webp");
+  background-size: cover;
+}
+
+.banner-container {
+  display: flex;
+  align-items: center;
+  height: 800px;
+}
+
+.banner-text h1 {
+  color: #234262;
+  font-family: "Abril Fatface", cursive;
+  font-size: 75px;
+  font-weight: 400;
+  line-height: 1.16;
+  margin-bottom: 62px;
+}
+
+.banner-btns a {
+  margin: 16px;
+  padding: 17px 50px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.banner-btns a.getStarted {
+  background: #1fc2d9;
+  border: 1px solid #1fc2d9;
+}
+
+.banner-btns a.getStarted:hover {
+  color: #1fc2d9;
+  background: transparent;
+}
+
+.banner-btns a.takeATour {
+  color: #77899d;
+  background: transparent;
+  border: 1px solid #77899d;
+}
+
+.banner-btns a.takeATour:hover {
+  color: #fff;
+  background: #77899d;
+}
+
+@media only screen and (max-width: 768px) {
+  .banner-container {
+    height: 600px;
+  }
+  .banner-text h1 {
+    font-size: 42px;
+  }
+
+  .banner-btns a {
+    margin: 0;
+    padding: 12px 24px;
+  }
+  .banner-btns a.getStarted {
+    margin-right: 20px;
+  }
+}

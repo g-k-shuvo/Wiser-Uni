@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Chemical Engineering",
+    "category": "Graduate",
+    "image": "courseImages/chemical-engineering-course.webp",
+    "cost": 299000
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Engineering",
+    "category": "Post Graduate",
+    "image": "courseImages/mechanical-engineering-course.webp",
+    "cost": 468000
+  },
+  {
+    "id": 3,
+    "name": "Bio Engineering",
+    "category": "Training",
+    "image": "courseImages/bio-engineering-course.webp",
+    "cost": 182000
+  },
+  {
+    "id": 4,
+    "name": "Civil Engineering",
+    "category": "PHD",
+    "image": "courseImages/civil-engineering-course.jpg",
+    "cost": 365000
+  },
+  {
+    "id": 5,
+    "name": "Aerospace Engineering",
+    "category": "Post Graduate",
+    "image": "courseImages/aerospace-engineering-course.jpg",
+    "cost": 894000
+  },
+  {
+    "id": 6,
+    "name": "Electrical Engineering",
+    "category": "PHD",
+    "image": "courseImages/electrical-engineering-course.jpg",
+    "cost": 347000
+  },
+  {
+    "id": 7,
+    "name": "Biomedical Engineering",
+    "category": "Graduate",
+    "image": "courseImages/biomedical-engineering-course.jpg",
+    "cost": 347000
+  },
+  {
+    "id": 8,
+    "name": "Environmental Engineering",
+    "category": "Training",
+    "image": "courseImages/environmental-engineering-course.jpg",
+    "cost": 347000
+  },
+  {
+    "id": 9,
+    "name": "Marine Engineering",
+    "category": "Post Graduate",
+    "image": "courseImages/marine-engineering-course.jpg",
+    "cost": 442000
+  }
+]

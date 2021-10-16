@@ -1,0 +1,9 @@
+.breadcrumb {
+  background: url("../images/breadcrumb-bg.png");
+  background-size: cover;
+  color: #fff;
+}
+
+.breadcrumb h1 {
+  font-family: "Abril Fatface", cursive;
+}

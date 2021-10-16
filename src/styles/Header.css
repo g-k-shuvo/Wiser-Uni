@@ -1,0 +1,14 @@
+header {
+  padding: 24px 0;
+  background: #fafafa;
+}
+
+.navbar-nav {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  align-items: center;
+}
+
+.navbar-nav .wu-btn {
+  margin: 0 10px;
+}
